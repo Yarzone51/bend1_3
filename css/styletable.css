@@ -1,0 +1,57 @@
+body {
+    font-family:'Segoe UI', Roboto, Arial, Helvetica , sans-serif;
+    padding-left: 1rem;
+    
+}
+table {
+    height:300px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    border-collapse: collapse;
+    
+        
+}
+th {
+    background-color:#f8f9fd;
+    color:#415268;
+    padding: .8rem; 
+    
+}
+td {
+    padding: .8rem; 
+   
+}
+tr {
+    border: 1px solid #eaeaea;
+    
+}
+tr:hover td  {
+    background-color: #fafdff;
+    cursor: pointer;
+}
+.job_title {
+    color:#4a519e;
+}
+.ft {
+    
+    border-radius: 5px;
+    background-color:#d4fbff;
+    color:#0073ee; 
+    padding: 5px;
+    margin: 10px;
+    
+}
+.pt {
+    
+    border-radius: 5px;
+    background-color:#fff6ab;
+    color:#ee8200; 
+    padding: 5px;
+    margin: 10px;
+}  
+.name {
+    font-weight:500;
+}
+.email {
+    color: #0073ee;
+}
